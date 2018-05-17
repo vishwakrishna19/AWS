@@ -1,0 +1,3 @@
+Traiing for devops
+git 
+github
