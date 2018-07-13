@@ -1,5 +1,4 @@
-import java.util.Scanner;
-class DecimalToOctalExample
+hi veena good context
 {
   public static void main(String args[])
   {
