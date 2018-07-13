@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 my name is rama'
+=======
+my name is krishna`
+>>>>>>> sree
 how r you
    ("ROLLNO" VARCHAR2(4000), 
 	"NAME" VARCHAR2(4000), 
