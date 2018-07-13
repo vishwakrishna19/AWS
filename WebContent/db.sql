@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 my name is rama'
-=======
 my name is krishna`
->>>>>>> sree
 how r you
-=======
 CREATE TABLE  "FEE_STUDENT" 
->>>>>>> d95d5d0... Testing
    ("ROLLNO" VARCHAR2(4000), 
 	"NAME" VARCHAR2(4000), 
 	"EMAIL" VARCHAR2(4000), 
@@ -32,7 +26,11 @@ CREATE TABLE  "FEE_ACCOUNTANT"
 	 CONSTRAINT "FEE_ACCOUNTANT_PK" PRIMARY KEY ("ID") ENABLE
    )
 <<<<<<< HEAD
+<<<<<<< HEAD
 /
 =======
 /
 >>>>>>> d95d5d0... Testing
+=======
+/
+>>>>>>> 014bbab... how r u
