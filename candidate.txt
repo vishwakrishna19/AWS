@@ -2,15 +2,9 @@
 
 hi this is Sai Nishanth Nagisetti, 
 email Id n.sainishanth@gmail.com
-Andhra Pradesh, India 520008
+Andhra Pradesh, India 
 
+:wq
 
-
-
-
-
- 
-=======
-task2 by pavan anna.
 >>>>>>> 1bd0a9364cddb5803e4d0d7a6fca1c2897f4e940
 
