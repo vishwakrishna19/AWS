@@ -1,6 +1,7 @@
 
+:
 sindu
-=======
+
 rajeshwar
 
 pavan
@@ -21,3 +22,11 @@ file  (please dont disturb)
 6
 7
 8
+
+
+
+welcome to devops training session
+
+sriteja
+
+
