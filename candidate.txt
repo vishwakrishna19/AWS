@@ -1,1 +1,2 @@
+candidate.txt file was edited
 elcome to devops training session
