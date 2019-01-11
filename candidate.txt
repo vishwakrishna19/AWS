@@ -1,33 +1,14 @@
+<<<<<<< HEAD
 Tomorrow is a saturday
-:
-Tomorrow is a holiday
-Hari Vamsi Anne
-sindu
 
-rajeshwar
-
-pavan
-is
-editing
-this
-file  (please dont disturb)
-.
-.
-.
-.
-.
-1
-2
-3
-4
-5
-6
-7
-8
-
-
-
+=======
 welcome to devops training session
 
 sriteja
+>>>>>>> 8d55f0514db5f52f6cec25c45878b8046fe5c42c
+
+
+welcome to devops training session
+This is second task
+Thank you
 
