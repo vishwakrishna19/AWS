@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 elcome t0o devops training session
 rajesh
 
+=======
+<<<<<<< HEAD
+elcome to devops training session
+
+I have modified this file
+=======
+Hi to devops training session
+>>>>>>> 4dfe01f8bb4914137e2c3baaf789041789984ecf
+>>>>>>> 445ba950ad8f2174322abb786851355f50392175
