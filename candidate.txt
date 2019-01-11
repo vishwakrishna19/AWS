@@ -1,26 +1,9 @@
+
 hi this is Sai Nishanth Nagisetti, 
 email Id n.sainishanth@gmail.com
 Andhra Pradesh, India 520008
 
-.
-.
-.
-.
-.
-.
-.
-1
-2
-3
-4
-5
-6
-7
-8
 
 
-
-welcome to devops training session
-
-sriteja
+devops / aws
 
