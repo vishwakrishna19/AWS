@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 elcome to devops training session
 
 I have modified this file
+=======
+Hi to devops training session
+>>>>>>> 4dfe01f8bb4914137e2c3baaf789041789984ecf
