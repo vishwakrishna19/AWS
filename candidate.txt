@@ -1,1 +1,1 @@
-welcome to devops training session
+elcome to devops training session
