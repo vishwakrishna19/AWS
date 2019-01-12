@@ -1,6 +1,3 @@
-
-
-
-woorking on branching merging
-elcome to devops training session
+merging and solving conflicts
+sindhu
 
