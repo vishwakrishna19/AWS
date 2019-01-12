@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2nd
 branch
 is
@@ -52,8 +53,12 @@ W
 Java
 Tejeswar Reddy Velpucharla
 Paths
+=======
+>>>>>>> a859a98134727633bdf8fec2075ca8ebe8ecab4f
 
+godavari river  
 
+<<<<<<< HEAD
 Hello
 
 
@@ -257,3 +262,5 @@ Nigel Poulton
 Beginner
 0m of 2h 12m
 
+=======
+>>>>>>> a859a98134727633bdf8fec2075ca8ebe8ecab4f
