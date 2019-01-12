@@ -1,4 +1,4 @@
-asdkkasdfalksfjal;ksjdfa;lkfdjalksdfjkfasdfasdfasdfasfasdf
+asdkkasdfaliksfjal;ksjdfa;lkfdjalksdfjkfasdfasdfasdfasfasdf
 Play by Play: Angular 2 Quick Start with John Papa and Ward…
 W
 W
@@ -17,7 +17,7 @@ Tejeswar Reddy Velpucharla
 Paths
 
 
-
+Hello
 
 
 Java
@@ -26,14 +26,14 @@ W
 Java
 17 Courses
 ·
-55 Hours
+66 Hours
 4h 4m watched
 
 Core Spring
 W
 W
 Core Spring
-11 Courses
+12 Courses
 ·
 36 Hours
 1h 3m watched
