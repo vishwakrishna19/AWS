@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-Tomorrow is a saturday
-
-=======
-welcome to devops training session
-
-sriteja
->>>>>>> 8d55f0514db5f52f6cec25c45878b8046fe5c42c
-
-
-welcome to devops training session
-This is second task
-Thank you
-
+asdfasdfasdfasdfasfasdf
