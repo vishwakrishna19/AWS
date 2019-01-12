@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 bsjxbxvxhbhcvbdsijcbdhchddgvfdhjshgvfhdjshvghfjdshvhbfjdhv
 asdfasdfasdfasdfasfasdf
 Pavajabgjcdgaravgxvgxgcsvxghvscgcvc scgvghcvhdbcvbcdvbcdc bdchcbdhb
+=======
+asdkkasdfalksfjal;ksjdfa;lkfdjalksdfj
+asfdasfdasfadsfasdfasdf
+asdfafasdf
+kfasdfasdfasdfasfasdf
+>>>>>>> 0219cbe9878f4bdfc6b3c803d307137bd11b68fc
