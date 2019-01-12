@@ -1,0 +1,157 @@
+
+Microsoft Azure Compute for Developers
+
+Continue learningView all 
+
+
+
+
+
+
+
+How Git Works
+W
+W
+How Git Works
+Paolo Perrotta
+·
+Beginner
+37m of 1h 49m
+
+
+Mastering Git
+W
+W
+Mastering Git
+Paolo Perrotta
+·
+Intermediate
+6m of 2h 42m
+
+
+Maven Fundamentals
+W
+W
+Maven Fundamentals
+Bryan Hansen
+·
+Intermediate
+57m of 2h 30m
+
+
+Getting Started with Git
+W
+W
+Getting Started with Git
+Aaron Stewart
+·
+Beginner
+2h 22m of 2h 22m
+
+
+Amazon Web Services (AWS) Fundamentals for System…
+W
+W
+Amazon Web Services (AWS) Fundamentals for System Admi…
+Elias Khnaser
+·
+Beginner
+3h 7m of 7h 19m
+ChannelsSave, organize and share your favorite content to help accomplish your objectives.View all 
+Create new Channel
+Java
+W
+W
+Java
+Tejeswar Reddy Velpucharla
+Paths
+
+
+
+
+
+Core Spring
+W
+W
+Core Spring
+11 Courses
+·
+36 Hours
+1h 3m watched
+
+Java
+W
+W
+Java
+17 Courses
+·
+55 Hours
+4h 4m watched
+
+AWS Certified DevOps Engineer
+W
+W
+AWS Certified DevOps Engineer
+4 Courses
+·
+12 Hours
+16m watched
+
+Understanding DevOps
+W
+W
+Understanding DevOps
+9 Courses
+·
+14 Hours
+1h 49m watched
+
+Microsoft Azure for Developers
+W
+W
+Microsoft Azure for Developers
+12 Courses
+·
+35 Hours
+33m watched
+Path Details
+
+Python
+W
+W
+Python
+11 Courses
+·
+35 Hours
+2h 35m watched
+BookmarksView all 
+TITLE
+LEVEL
+TIME
+AUTHORS(S)
+CREATED
+Microsoft Azure: The Big Picture
+Beginner
+1h 50m
+by Matt Milner
+Nov 20, 2018
+Java Microservices with Spring Cloud: Developing Services
+Intermediate
+4h 42m
+by Richard Seroter
+Oct 30, 2018
+What's New in Java 8
+Intermediate
+4h 15m
+by Jose Paumard
+Oct 30, 2018
+Chocolatey NuGet Essentials for Automation Pros
+Intermediate
+3h 10m
+by Darwin Sanoy
+Sep 11, 2018
+Implementing Windows Server 2016 Hyper-V
+Intermediate
+4h 49m
+by Greg Shields
+Sep 9, 2018
