@@ -64,4 +64,10 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
 
+### Rebasing
+
+| Command | Description |
+| ------- | ----------- |
+|`git rebase [branch name]` | integrates changes from one branch into another
+|`git rebase -i HEAD~3 | displays the last 3 commits on the current branch 
 
