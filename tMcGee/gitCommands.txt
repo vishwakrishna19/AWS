@@ -71,3 +71,7 @@ _A list of my commonly used Git commands_
 |`git rebase [branch name]` | integrates changes from one branch into another
 |`git rebase -i HEAD~3 | displays the last 3 commits on the current branch 
 
+
+
+Hi, today is Wednesday
+This is modified line
