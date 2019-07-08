@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 i am not changing
-=======
  i am not giving anything
->>>>>>> mahesh
