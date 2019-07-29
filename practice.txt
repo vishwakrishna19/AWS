@@ -1,0 +1,2 @@
+how to remove all the files at a time?
+how to remove the files in remote repository?
